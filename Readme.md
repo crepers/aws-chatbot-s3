@@ -122,6 +122,13 @@ Amazon S3은 Amazon S3에서 사용자, 역할 또는 AWS 서비스가 수행한
 
 ![Solution overview](p1.jpg)
 
+---
+
 ### 참고자료
+   - [What Is AWS Chatbot?](https://docs.aws.amazon.com/chatbot/latest/adminguide/what-is.html#chatbot-works)
+   - [Testing Notifications from AWS Services to Amazon Chime or Slack Chat Rooms](https://docs.aws.amazon.com/chatbot/latest/adminguide/getting-started.html)
    - [Receive AWS Developer Tools Notifications over Slack using AWS Chatbot](https://aws.amazon.com/ko/blogs/devops/receive-aws-developer-tools-notifications-over-slack-using-aws-chatbot/)
    - [AWS CodeCommit 명령줄 레퍼런스](https://docs.aws.amazon.com/ko_kr/codecommit/latest/userguide/cmd-ref.html)
+   - [분산 환경에서의 Git - 프로젝트에 기여하기](https://git-scm.com/book/ko/v2/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-Git-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0)
+   - [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+   - [Pull Request 이해하기](https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
